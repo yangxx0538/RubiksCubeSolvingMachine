@@ -1,0 +1,41 @@
+{ Using PSTWRITER 16.6.0 d001Apr-07-2016 at 18:24:43 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "Y1.2" ignored for Y1: SCHEMATIC1, PAGE1 (213.36, 322.58). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "Y1.4" ignored for Y1: SCHEMATIC1, PAGE1 (213.36, 322.58). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.15" ignored for U12: SCHEMATIC1, PAGE1 (297.18, 256.54). Connecting pin to net "NC_6".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U26.27" ignored for U26: SCHEMATIC1, PAGE1 (106.68, 274.32). Connecting pin to net "PWRCHK".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.17" ignored for U12: SCHEMATIC1, PAGE1 (297.18, 256.54). Connecting pin to net "NC_8".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.14" ignored for U12: SCHEMATIC1, PAGE1 (297.18, 256.54). Connecting pin to net "NC_5".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.16" ignored for U12: SCHEMATIC1, PAGE1 (297.18, 256.54). Connecting pin to net "NC_7".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.3" ignored for U12: SCHEMATIC1, PAGE1 (297.18, 256.54). Connecting pin to net "NC_2".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.45" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS42".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.77" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "LS2".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.78" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "LS3".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.43" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "STEP_1".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.34" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS21".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.33" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "KEY4".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.39" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS11".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.40" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS12".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.41" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS13".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.67" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "DIR_7".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.42" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "DIR_1".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.44" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS41".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U38.46" ignored for U38: SCHEMATIC1, PAGE1 (99.06, 40.64). Connecting pin to net "MS43".
+#22 WARNING(ORCAP-36006): Part Name "INDUCTOR_SMDPL-10R4X10R4X3R0_22UH" is renamed to "INDUCTOR_SMDPL-10R4X10R4X3R0_22".
+#23 WARNING(ORCAP-36006): Part Name "DA14580-01AT2_QFN40_5_5_DA14580-01AT2" is renamed to "DA14580-01AT2_QFN40_5_5_DA14580".
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package A4988_Module , U27: SCHEMATIC1, PAGE1 (411.48, 144.78).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package A4988_Module , U27: SCHEMATIC1, PAGE1 (411.48, 144.78).
+#26 WARNING(ORCAP-36006): Part Name "STM32F103VXT6_LQFP100_STM32F103VCT6" is renamed to "STM32F103VXT6_LQFP100_STM32F103".
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package HMC5883L , U39: SCHEMATIC1, PAGE1 (297.18, 330.20).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#11" as visible power pin of same name already exists in Package HMC5883L , U39: SCHEMATIC1, PAGE1 (297.18, 330.20).
+#29 WARNING(ORCAP-36006): Part Name "OSC3225_OSC-4P-3R2X2R5-SMD_16MHZ" is renamed to "OSC3225_OSC-4P-3R2X2R5-SMD_16MH".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\项目资料\魔方机器人\3_HARDWARE\V2\NET/pstchip.dat
+
+Loading... E:\项目资料\魔方机器人\3_HARDWARE\V2\NET/pstchip.dat
+
+Loading... E:\项目资料\魔方机器人\3_HARDWARE\V2\NET/pstxprt.dat
+
+Loading... E:\项目资料\魔方机器人\3_HARDWARE\V2\NET/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,1220 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-07-2016 at 18:23:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CUBE_ROBOT';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C15 'CAPNP_0603C_103':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843480@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843480@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843480@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843500@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843500@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843500@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843516@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843516@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843516@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPNP_0603C_2.2NF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843528@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843528@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843528@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPNP_0603C_22PF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16840577@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16840577@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16840577@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS943653@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins943653@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins943653@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPNP_0603C_22PF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16840589@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16840589@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16840589@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS943894@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins943894@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins943894@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPNP_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS979440@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins979440@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins979440@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPNP_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS981020@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins981020@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins981020@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS897749@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins897749@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins897749@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS995068@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins995068@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins995068@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS995106@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins995106@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins995106@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS995144@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins995144@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins995144@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAPNP_0603C_1UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774433@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774433@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774433@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774463@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774463@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774463@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPNP_0603C_105':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS901478@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins901478@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins901478@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAPNP_1206C_100UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS1055135@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins1055135@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins1055135@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPNP_0603C_103':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS902032@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins902032@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins902032@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAPNP_1206C_22UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS1059021@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins1059021@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins1059021@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAPNP_1206C_100UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS1064881@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins1064881@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins1064881@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843583@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843583@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843583@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAPNP_0603C_0.22UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843621@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843621@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843621@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAPNP_0603C_4.7UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843639@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843639@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843639@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAPNP_0603C_100PF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774159@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774159@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774159@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAPNP_0603C_100PF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774189@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774189@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774189@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAPNP_0603C_1UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774371@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774371@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774371@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAPNP_0603C_103':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16789569@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16789569@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16789569@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAPACITOR2_CAP-5R0-10X13_100UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16793370@MYLIBRARY.CAPACITOR2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16793370@mylibrary.\capacitor2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16793370@mylibrary.\capacitor2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPNP_0603C_4.7UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16794585@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16794585@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16794585@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAPNP_1206C_100UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16817930@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16817930@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16817930@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16845533@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16845533@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16845533@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16845627@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16845627@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16845627@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16878150@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16878150@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16878150@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16879020@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16879020@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16879020@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPNP_0603C_1UF':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS904671@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins904671@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins904671@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16879042@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16879042@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16879042@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAPNP_0603C_104':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16879061@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16879061@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16879061@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPNP_0603C_103':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS904735@BASELIB.CAPNP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins904735@baselib.\capnp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins904735@baselib.\capnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SMA_B340A':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16789620@MYLIBRARY.DIODE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16789620@mylibrary.\diode.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16789620@mylibrary.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_0603LED_LED':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16801220@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16801220@mylibrary.\led.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16801220@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_0603LED_LED':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16804132@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16804132@mylibrary.\led.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16804132@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16781815@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16781815@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16781815@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782137@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782137@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782137@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782563@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782563@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782563@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782661@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782661@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782661@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16783116@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16783116@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16783116@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16783214@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16783214@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16783214@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16784055@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16784055@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16784055@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16784153@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16784153@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16784153@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16785261@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16785261@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16785261@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J23 'DIP1X4_SIP-4-2R5_SIP1*4':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16802317@MYLIBRARY.DIP1X4.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16802317@mylibrary.\dip1x4.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16802317@mylibrary.\dip1x4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J24 'DIP1X3_SIP-3-2R5_SIP1*3':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16850819@MYLIBRARY.DIP1X3.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16850819@mylibrary.\dip1x3.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16850819@mylibrary.\dip1x3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'DIP1X3_SIP-3-2R5_SIP1*3':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16852208@MYLIBRARY.DIP1X3.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16852208@mylibrary.\dip1x3.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16852208@mylibrary.\dip1x3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J26 'DIP1X3_SIP-3-2R5_SIP1*3':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16852223@MYLIBRARY.DIP1X3.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16852223@mylibrary.\dip1x3.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16852223@mylibrary.\dip1x3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J27 'DIP1X3_SIP-3-2R5_SIP1*3':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16852238@MYLIBRARY.DIP1X3.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16852238@mylibrary.\dip1x3.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16852238@mylibrary.\dip1x3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J28 'SIP-2_SIP-2-2R5_SIP1*2':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16860691@MYLIBRARY.SIP-2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16860691@mylibrary.\sip-2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16860691@mylibrary.\sip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J29 'SIP-2_SIP-2-2R5_SIP1*2':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16860699@MYLIBRARY.SIP-2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16860699@mylibrary.\sip-2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16860699@mylibrary.\sip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J30 'SIP-2_SIP-2-2R5_SIP1*2':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16860707@MYLIBRARY.SIP-2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16860707@mylibrary.\sip-2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16860707@mylibrary.\sip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J31 'SIP-2_SIP-2-2R5_SIP1*2':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16860715@MYLIBRARY.SIP-2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16860715@mylibrary.\sip-2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16860715@mylibrary.\sip-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K1 'KEY_KEY0_37X0_62_KEY':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16822777@MYLIBRARY.KEY.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16822777@mylibrary.\key.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16822777@mylibrary.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K2 'KEY_KEY0_37X0_62_KEY':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16822984@MYLIBRARY.KEY.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16822984@mylibrary.\key.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16822984@mylibrary.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K3 'KEY_KEY0_37X0_62_KEY':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16823193@MYLIBRARY.KEY.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16823193@mylibrary.\key.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16823193@mylibrary.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K4 'KEY_KEY0_37X0_62_KEY':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16823399@MYLIBRARY.KEY.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16823399@mylibrary.\key.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16823399@mylibrary.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K5 'KEY_KEY0_37X0_62_KEY':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16824737@MYLIBRARY.KEY.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16824737@mylibrary.\key.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16824737@mylibrary.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'INDUCTOR_SMDPL-10R4X10R4X3R0_22':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16791786@MYLIBRARY.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16791786@mylibrary.\inductor.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16791786@mylibrary.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'IND_0402L_2.2UH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774337@BASELIB.IND.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774337@baselib.\ind.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774337@baselib.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS897676@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins897676@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins897676@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESSMD_0603R_0R':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843551@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843551@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843551@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS966608@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins966608@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins966608@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16792373@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16792373@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16792373@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RESSMD_0805R_3.24K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16792389@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16792389@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16792389@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RESSMD_0603R_20K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16801146@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16801146@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16801146@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESSMD_0603R_2K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16804083@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16804083@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16804083@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843345@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843345@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843345@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16820508@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16820508@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16820508@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821153@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821153@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821153@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821249@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821249@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821249@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821348@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821348@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821348@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821451@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821451@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821451@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821556@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821556@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821556@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821664@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821664@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821664@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16821776@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16821776@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16821776@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843315@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843315@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843315@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843325@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843325@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843325@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843355@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843355@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843355@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16861129@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16861129@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16861129@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16861546@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16861546@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16861546@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16861674@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16861674@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16861674@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'RESSMD_0603R_10K':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16861805@BASELIB.RESSMD.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16861805@baselib.\ressmd.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16861805@baselib.\ressmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP10 'TP_HOLES-3R00_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16811779@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16811779@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16811779@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP11 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16812321@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16812321@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16812321@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP24V 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807533@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807533@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807533@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3V3 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807522@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807522@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807522@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7 'TP_HOLES-3R00_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16811746@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16811746@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16811746@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP8 'TP_HOLES-3R00_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16811757@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16811757@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16811757@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'TP_HOLES-3R00_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16811768@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16811768@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16811768@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TPBLE 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807544@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807544@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807544@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TPGND 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807511@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807511@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807511@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_MCU_RX 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807555@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807555@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807555@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_MCU_TX 'TP_TP_TH_TH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16807566@BASELIB.TP.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16807566@baselib.\tp.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16807566@baselib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'MPU6050_QFN24_MPU6050':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843416@MYLIBRARY.MPU6050.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843416@mylibrary.\mpu6050.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843416@mylibrary.\mpu6050.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'W25X40CL_SOP8_NOPAD_W25X40':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774401@MYLIBRARY.W25X40CL.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774401@mylibrary.\w25x40cl.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774401@mylibrary.\w25x40cl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'RT9013_SOT23-5_RT9013':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS900251@MYLIBRARY.RT9013.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins900251@mylibrary.\rt9013.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins900251@mylibrary.\rt9013.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'DA14580-01AT2_QFN40_5_5_DA14580':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774611@MYLIBRARY.DA14580-01AT2.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774611@mylibrary.\da14580-01at2.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774611@mylibrary.\da14580-01at2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16776240@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16776240@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16776240@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782065@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782065@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782065@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782491@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782491@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782491@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16782589@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16782589@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16782589@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16783044@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16783044@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16783044@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16783142@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16783142@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16783142@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16783983@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16783983@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16783983@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'A4988_MODULE_A4988_A4988_MODULE':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16784081@MYLIBRARY.A4988_MODULE.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16784081@mylibrary.\a4988_module.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16784081@mylibrary.\a4988_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'TPS5430_SOP8_TPS5430':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16788947@MYLIBRARY.TPS5430.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16788947@mylibrary.\tps5430.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16788947@mylibrary.\tps5430.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U37 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16796630@MYLIBRARY.DC005.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16796630@mylibrary.\dc005.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16796630@mylibrary.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'STM32F103VXT6_LQFP100_STM32F103':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16830493@MYLIBRARY.STM32F103VXT6.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16830493@mylibrary.\stm32f103vxt6.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16830493@mylibrary.\stm32f103vxt6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'HMC5883L_HMC5883L_HMC5883L':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16843561@MYLIBRARY.HMC5883L.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16843561@mylibrary.\hmc5883l.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16843561@mylibrary.\hmc5883l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RT9013_SOT23-5_RT9013':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS904561@MYLIBRARY.RT9013.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins904561@mylibrary.\rt9013.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins904561@mylibrary.\rt9013.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_HC-49_XTAL/8MHZ':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16840555@MYLIBRARY.XTAL.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16840555@mylibrary.\xtal.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16840555@mylibrary.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'XTAL_0805R_32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774885@MYLIBRARY.XTAL.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774885@mylibrary.\xtal.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774885@mylibrary.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC3225_OSC-4P-3R2X2R5-SMD_16MH':;
+
+SECTION_NUMBER 1
+ '@CUBE_ROBOT.SCHEMATIC1(SCH_1):INS16774583@LVYUN.OSC3225.NORMAL(CHIPS)':
+ C_PATH='@cube_robot.schematic1(sch_1):ins16774583@lvyun.\osc3225.normal\(chips)',
+ P_PATH='@cube_robot.schematic1(sch_1):page_ins16774583@lvyun.\osc3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

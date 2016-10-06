@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O2 --apcs=interwork -I..\CMSIS -I..\Lib\inc -I..\User -I..\User\eMPL 
+-I D:\software\KEIL\ARM\RV31\INC 
+-I D:\software\KEIL\ARM\CMSIS\Include 
+-I D:\software\KEIL\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o "..\Output\usart.o" --omf_browse "..\Output\usart.crf" --depend "..\Output\usart.d" "..\User\usart.c"

@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaeu11540.tmp                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 19:25:54 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'E:/项目资料/魔方机器人/3_Hardware/V2/Pcb' ...
+
+
+
+     'Cuberobot-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.0000    0.0000/  0.0000      PLATED        357
+            2.  35.0000    0.0000/  0.0000      PLATED        199
+            3.  98.0000    0.0000/  0.0000      PLATED          3
+            4. 118.0000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        563
+
+     ---- Total head travel:              19.53 feet (5.95 meters)
+

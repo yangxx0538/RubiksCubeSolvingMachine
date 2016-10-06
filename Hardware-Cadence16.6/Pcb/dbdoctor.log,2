@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 19:24:04 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   3
+  Updated DRC errors:    3
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.

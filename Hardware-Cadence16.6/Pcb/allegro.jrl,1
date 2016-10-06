@@ -1,0 +1,84 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sun Aug 14 19:08:21 2016
+\t (00:00:01)         Host=WIN7-PC User=Win7 Pid=20928 CPUs=4
+\t (00:00:01) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/Cuberobot.brd
+\i (00:00:02) trapsize 6
+\i (00:00:03) trapsize 5
+\i (00:00:03) trapsize 5
+\i (00:00:03) generaledit 
+\i (00:00:04) roam start
+\i (00:00:04) roam x 80
+\i (00:00:04) roam x 80
+\i (00:00:04) roam x 64
+\i (00:00:04) roam x -112
+\i (00:00:04) roam y -80
+\i (00:00:04) roam x -112
+\i (00:00:04) roam y -80
+\i (00:00:04) roam x -80
+\i (00:00:04) roam y -64
+\i (00:00:04) roam end
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 2453 1390
+\i (00:00:04) trapsize 10
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 2454 1390
+\i (00:00:04) trapsize 21
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 2438 1390
+\i (00:00:04) trapsize 41
+\i (00:00:05) roam start
+\i (00:00:05) roam x 80
+\i (00:00:05) roam y -96
+\i (00:00:05) roam x 112
+\i (00:00:05) roam y -80
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y -16
+\i (00:00:05) roam x -112
+\i (00:00:06) roam x -112
+\i (00:00:06) roam x -32
+\i (00:00:06) roam end
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 1414 2972
+\i (00:00:06) trapsize 21
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 1414 2972
+\i (00:00:06) trapsize 10
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 1960 3288
+\i (00:00:06) trapsize 21
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 1956 3289
+\i (00:00:07) trapsize 41
+\i (00:00:07) roam start
+\i (00:00:07) roam x 64
+\i (00:00:07) roam x 16
+\i (00:00:07) roam x 64
+\i (00:00:07) roam x 16
+\i (00:00:07) roam x 48
+\i (00:00:08) roam x 16
+\i (00:00:08) roam y 16
+\i (00:00:08) roam x 16
+\i (00:00:08) roam x 64
+\i (00:00:08) roam x 32
+\i (00:00:08) roam x 32
+\i (00:00:08) roam x 48
+\i (00:00:08) roam x 64
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x 32
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x -16
+\i (00:00:09) roam x -16
+\i (00:00:09) roam y 16
+\i (00:00:09) roam end
+\e (00:00:13) Command not found: ~AA
+\i (00:00:16) exit 
+\t (00:00:16)     Journal end - Sun Aug 14 19:08:36 2016

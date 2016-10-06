@@ -1,0 +1,15 @@
+..\Output\sys_param.o: ..\User\sys_param.c
+..\Output\sys_param.o: ..\User\sys_param.h
+..\Output\sys_param.o: ..\CMSIS\stm32f10x.h
+..\Output\sys_param.o: ..\CMSIS\core_cm3.h
+..\Output\sys_param.o: D:\software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\sys_param.o: ..\CMSIS\system_stm32f10x.h
+..\Output\sys_param.o: ..\User\stm32f10x_conf.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_exti.h
+..\Output\sys_param.o: ..\CMSIS\stm32f10x.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_flash.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_gpio.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_rcc.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_tim.h
+..\Output\sys_param.o: ..\Lib\inc\stm32f10x_usart.h
+..\Output\sys_param.o: ..\Lib\inc\misc.h

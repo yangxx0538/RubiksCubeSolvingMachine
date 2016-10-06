@@ -1,0 +1,85 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sun Aug 14 20:11:38 2016
+\t (00:00:01)         Host=WIN7-PC User=Win7 Pid=12620 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/Cuberobot.brd
+\i (00:00:03) trapsize 6
+\i (00:00:03) trapsize 5
+\i (00:00:04) trapsize 5
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 2609 1193
+\i (00:00:04) trapsize 3
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 2609 1194
+\i (00:00:04) trapsize 5
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 2610 1194
+\i (00:00:04) trapsize 10
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 2608 1203
+\i (00:00:05) trapsize 21
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3386 1273
+\i (00:00:05) trapsize 10
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3386 1273
+\i (00:00:05) trapsize 5
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 3386 1273
+\i (00:00:06) trapsize 3
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 3386 1273
+\i (00:00:06) trapsize 5
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 3386 1273
+\i (00:00:06) trapsize 10
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 3387 1273
+\i (00:00:06) trapsize 21
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 3387 1273
+\i (00:00:06) trapsize 41
+\i (00:00:07) roam start
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -48
+\i (00:00:07) roam x 32
+\i (00:00:07) roam y -32
+\i (00:00:07) roam x 32
+\i (00:00:07) roam y -16
+\i (00:00:07) roam x 32
+\i (00:00:07) roam y -16
+\i (00:00:07) roam x 64
+\i (00:00:07) roam x 112
+\i (00:00:07) roam y -16
+\i (00:00:08) roam x 16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x 32
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x 32
+\i (00:00:08) roam y -16
+\i (00:00:08) roam x 16
+\i (00:00:08) roam end
+\i (00:00:09) roam start
+\i (00:00:09) roam x 32
+\i (00:00:09) roam y 48
+\i (00:00:09) roam end
+\i (00:00:10) roam start
+\i (00:00:10) roam y -32
+\i (00:00:11) roam y -16
+\i (00:00:11) roam y 16
+\i (00:00:11) roam end
+\i (00:00:17) exit 
+\t (00:00:17)     Journal end - Sun Aug 14 20:11:54 2016

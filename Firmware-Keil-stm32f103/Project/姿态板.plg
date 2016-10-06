@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\00.项目\3.警用四轴飞行器\1.项目开发\3.姿态板\1.程序\2013-09-13（DMP调通）\Project\姿态板.uvproj
+Project File Date:  09/14/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+..\CMSIS\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+assembling startup_stm32f10x_md.s...
+compiling misc.c...
+..\Lib\src\misc.c(24): error:  #5: cannot open source input file "misc.h": No such file or directory
+compiling stm32f10x_exti.c...
+..\Lib\src\stm32f10x_exti.c(23): error:  #5: cannot open source input file "stm32f10x_exti.h": No such file or directory
+compiling stm32f10x_flash.c...
+..\Lib\src\stm32f10x_flash.c(23): error:  #5: cannot open source input file "stm32f10x_flash.h": No such file or directory
+compiling stm32f10x_gpio.c...
+..\Lib\src\stm32f10x_gpio.c(23): error:  #5: cannot open source input file "stm32f10x_gpio.h": No such file or directory
+compiling stm32f10x_rcc.c...
+..\Lib\src\stm32f10x_rcc.c(23): error:  #5: cannot open source input file "stm32f10x_rcc.h": No such file or directory
+Project build/rebuild aborted.
+Target not created

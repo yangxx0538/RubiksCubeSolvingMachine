@@ -1,0 +1,418 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 19:28:32 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+    WARNING: Film contains DRC error(s).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04900                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06300                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.06300                     0.000 NO     DARK 
+  SQUARE     0.16500                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.01800       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.01800      90.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.05700      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.04200      90.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05400     x 0.06600      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.04500      90.000 NO     DARK 
+  RECTANGLE  0.05700     x 0.01300      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.10000      90.597 NO     DARK 
+  RECTANGLE  0.11500     x 0.11500      90.000 NO     DARK 
+  RECTANGLE  0.13800     x 0.17700       0.000 NO     DARK 
+  RECTANGLE  0.13800     x 0.17700      90.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.10600      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04900                                  DARK 
+  CIRCLE     0.06300                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.06300                     0.000 NO     DARK 
+  SQUARE     0.16500                     0.000 NO     DARK 
+  RECTANGLE  0.13800     x 0.17700       0.000 NO     DARK 
+  RECTANGLE  0.13800     x 0.17700      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     SILKSCREEN_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05300                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  SQUARE     0.06700                     0.000 NO     DARK 
+  SQUARE     0.17300                     0.000 NO     DARK 
+  RECTANGLE  0.00900     x 0.04100       0.000 NO     DARK 
+  RECTANGLE  0.00900     x 0.04100      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01700     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.02400      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.09100       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.09100      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.04600      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.01400      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800       0.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06300       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06300      90.000 NO     DARK 
+  RECTANGLE  0.05600     x 0.08600       0.000 NO     DARK 
+  RECTANGLE  0.05700     x 0.07000      90.000 NO     DARK 
+  RECTANGLE  0.05900     x 0.04900      90.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.01700      90.000 NO     DARK 
+  RECTANGLE  0.06700     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.08600     x 0.10600      90.597 NO     DARK 
+  RECTANGLE  0.12100     x 0.12100      90.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100       0.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100      90.000 NO     DARK 
+  RECTANGLE  0.14600     x 0.11000      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05300                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  SQUARE     0.06700                     0.000 NO     DARK 
+  SQUARE     0.17300                     0.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100       0.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100      90.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  RECTANGLE  0.00800     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.01800       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.01800      90.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.05700      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.04200      90.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.01000       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05400     x 0.06600      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.04500      90.000 NO     DARK 
+  RECTANGLE  0.05700     x 0.01300      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.10000      90.597 NO     DARK 
+  RECTANGLE  0.11500     x 0.11500      90.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.10600      90.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100       0.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  RECTANGLE  0.14200     x 0.18100       0.000 NO     DARK 
+  RECTANGLE  0.14200     x 0.18100      90.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  YES
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (5002 1592)
+           ... using undefined line width of 6
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6
+
+    WARNING: text composed 0 width line found at (5452 3090)
+           ... using undefined line width of 6
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     DRILL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created.
+        SILKSCREEN_TOP created.
+        SILKSCREEN_BOTTOM created.
+        SOLDERMASK_TOP created.
+        SOLDERMASK_BOTTOM created.
+        PASTEMASK_TOP created.
+        PASTEMASK_BOTTOM created.
+        DRILL created with warnings
+
+ ARTWORK finished

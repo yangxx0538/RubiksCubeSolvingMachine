@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 19:25:58 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Cadence/SPB_16.6/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 35-0-C-P-0-0 uses multiple drill figures.
+End processing drill holes.

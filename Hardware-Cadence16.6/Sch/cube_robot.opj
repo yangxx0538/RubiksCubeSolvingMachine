@@ -1,0 +1,116 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\cube_robot.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "E:\项目资料\魔方机器人\3_HARDWARE\V2\NET")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\CUBE_ROBOT.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File "..\net\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\net\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\net\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (SIP-2
+      (FullPartName "SIP-2.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (DIP1x2
+      (FullPartName "DIP1x2.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (DIP1x3
+      (FullPartName "DIP1x3.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (STM32F103VXT6
+      (FullPartName "STM32F103VXT6.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (KEY
+      (FullPartName "KEY.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (DC005
+      (FullPartName "DC005.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Capacitor2
+      (FullPartName "Capacitor2.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (SW-单刀双掷
+      (FullPartName "SW-单刀双掷.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (tps5430
+      (FullPartName "tps5430.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (DIP1x4
+      (FullPartName "DIP1x4.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0"))
+    (A4988_Module
+      (FullPartName "A4988_Module.Normal")
+      (LibraryName "D:\LIB\CAPTURE_LIB\MYLIBRARY.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\cube_robot.dsn")
+      (Path "Design Resources" ".\cube_robot.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 260"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 25 1324 25 516")
+        (Scroll "-44 30")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "E:\项目资料\魔方机器人\3_HARDWARE\V2\SCH\CUBE_ROBOT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Win7")
+  (ISPCBBASICLICENSE "false"))

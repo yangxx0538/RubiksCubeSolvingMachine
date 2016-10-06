@@ -1,0 +1,240 @@
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.exe.config
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.exe
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.pdb
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Controls.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Imaging.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.DirectShow.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.VFW.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Vision.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Math.dll
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Controls.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Imaging.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Vision.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\bin\Debug\AForge.Math.xml
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.exe
+E:\项目资料\魔方机器人\0_Data\AForge.NET Framework-2.2.5\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.pdb
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetector.exe
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetector.pdb
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\MotionDetector.exe.config
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\MotionDetector.exe
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\MotionDetector.pdb
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Controls.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Imaging.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.DirectShow.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.VFW.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Vision.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Math.dll
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Controls.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Imaging.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Vision.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\bin\Debug\AForge.Math.xml
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+E:\项目资料\魔方机器人\4_Software\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+C:\Project\魔方机器人\2_Software\3-26\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+C:\Project\魔方机器人\2_Software\16-4-4\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+C:\Project\魔方机器人\2_Software\16-4-15\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetectorSample.URLForm.resources
+C:\Project\魔方机器人\2_Software\16-4-16\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetectorSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetectorSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-17\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\RubikSolverSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\RubikSolverSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\RubikSolverSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\RubikSolverSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-18\MotionDetector\obj\Debug\RubikSolverSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.AboutForm.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.MotionRegionsForm.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.VideoCaptureDeviceForm.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.MainForm.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.Properties.Resources.resources
+C:\Project\魔方机器人\2_Software\16-4-22\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Controls.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Imaging.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Vision.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.AboutForm.resources
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.MotionRegionsForm.resources
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.VideoCaptureDeviceForm.resources
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.MainForm.resources
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\RubikSolverSample.Properties.Resources.resources
+C:\Users\Win7\Desktop\Opensource\16-4-22\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\Win7\Desktop\Opensource\Software-VS2013\bin\Debug\MotionDetector.exe.config
+C:\Users\Win7\Desktop\Opensource\Software-VS2013\obj\Debug\MotionDetector.exe
+C:\Users\Win7\Desktop\Opensource\Software-VS2013\obj\Debug\MotionDetector.pdb

@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 18:45:32 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	D:/LIB/PCB_LIB/DEVICE_LIB/
+	D:/LIB/PCB_LIB/PADLIB/
+
+
+All Symbols Found
+
+Total symbols placed:      117 out of 121
+
+
+Symbol Found:  C81	- D:/LIB/PCB_LIB/DEVICE_LIB/0603c.psm

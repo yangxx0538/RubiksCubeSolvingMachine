@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 18:24:46 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'E:/项目资料/魔方机器人/3_Hardware/V2/Net';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/Cuberobot.brd';
+NEW_BOARD_NAME 'E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/Cuberobot.brd';
+
+CmdLine: netrev -$ -i E:/项目资料/魔方机器人/3_Hardware/V2/Net -y 1 -z E:/项目资料/魔方机器人/3_Hardware/V2/Pcb/#Taaaacp11540.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstchip.dat 
+   Finished reading E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstchip.dat (00:00:00.04)
+Starting to read E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstxprt.dat 
+   Finished reading E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstxprt.dat (00:00:00.00)
+Starting to read E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstxnet.dat 
+   Finished reading E:/项目资料/魔方机器人/3_Hardware/V2/Net/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/LIB/PCB_LIB/DEVICE_LIB/ 
+           D:/LIB/PCB_LIB/PADLIB/ 
+
+PADPATH =  D:/LIB/PCB_LIB/PADLIB/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 7 18:24:46 2016
+   DESIGN NAME : 'CUBE_ROBOT'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:36
+elapsed time  0:00:00
+

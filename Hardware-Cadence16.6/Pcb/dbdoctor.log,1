@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Cuberobot.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 07 19:23:51 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN ARC SEGMENT center = (4358 423)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+Regenerating DRC
+  Original DRC errors:   3
+  Updated DRC errors:    3
+  DRC elapsed time:      00:00:01
+
+0 warnings, 1 errors detected, 1 errors  fixed.
